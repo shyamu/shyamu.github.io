@@ -101,6 +101,14 @@ header {
   position:fixed;
 }
 
+header h1 a {
+  font-weight: 600;
+}
+
+header h2 a {
+  font-weight: 600;
+}
+
 header ul {
   list-style:none;
   height:40px;
