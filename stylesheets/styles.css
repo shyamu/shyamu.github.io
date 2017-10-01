@@ -33,6 +33,10 @@ h3, h4, h5, h6 {
   color:#39c;
 }
 
+img {
+  padding:3px;
+}
+
 a {
   color:#39c;
   font-weight:400;
