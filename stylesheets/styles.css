@@ -21,7 +21,8 @@ h1, h2, h3 {
 }
 
 h1 {
-  font-size:28px;
+  font-size:40px;
+  color: #494949;
 }
 
 h2 {
@@ -29,7 +30,11 @@ h2 {
 }
 
 h3, h4, h5, h6 {
-  color:#494949;
+  color:#39c;
+}
+
+img {
+  padding:3px;
 }
 
 a {
@@ -96,7 +101,7 @@ img {
 }
 
 header {
-  width:270px;
+  width:300px;
   float:left;
   position:fixed;
 }
